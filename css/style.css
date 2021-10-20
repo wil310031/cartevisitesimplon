@@ -26,8 +26,8 @@
     width: 960px;
 }
 
-/* Header */
-#header
+/* Contenue du Header */
+#content_header
 {
     display: flex;
     justify-content: space-between;
@@ -117,7 +117,7 @@ a
     text-decoration: none;
     color: #1e272e;
 }
-.mail
+.blue
 {
     font-size: 3rem;
     font-weight: 700;
