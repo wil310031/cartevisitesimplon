@@ -5,6 +5,7 @@
     font-size: 62.5%;
 }
 
+/* Conteneur principal en flex permettant un centrage et alignements des elément plus simple */
 #container 
 {
     height: 100vh;
@@ -15,6 +16,8 @@
     background:url("../img/bg.jpg") no-repeat fixed center;
     background-size: cover;
 }
+
+/* Conteneur format carte de visite */
 #content 
 {
     background-color: #ecf0f1;
@@ -23,6 +26,7 @@
     width: 960px;
 }
 
+/* Header */
 #header
 {
     display: flex;
